@@ -1,0 +1,4 @@
+# Updated 6/30/24 3:49 PM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+ip|2023-10-05 18:16:43 +0000|(Unknown)|Forever|Banned by an operator.
